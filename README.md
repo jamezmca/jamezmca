@@ -13,3 +13,5 @@ traits: ["charismatic", "perseverant", "jovial", "critical thinker", "versatile"
 Feel free to connect with me on my LinkedIn, Twitter, or send me a message on my web-portfolio :)
 
 🦕🦖
+
+https://www.linkedin.com/in/jamezmcarthur/
