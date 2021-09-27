@@ -7,7 +7,7 @@ was on Watercare’s $3.4bn Central Interceptor project, where I was the Design 
 
 I am now a self-taught developer; you can checkout my work @ www.smoljames.com
 
-{James: {skills: ["I am a great technical problem solver and analyst", "A competent Full-Stack developer", "A resourceful and quick learner"], 
+{James: {skills: ["I am a great technical problem solver and analyst", "A competent Full-Stack developer", "A resourceful and quick learner", "An excellent communicator"], 
 traits: ["charismatic", "perseverant", "jovial", "critical thinker", "versatile"]}}
 
 Feel free to connect with me on my LinkedIn, Twitter, or send me a message on my web-portfolio :)
