@@ -1,7 +1,6 @@
-**Hi**,
+****Hi**,**
 
-**I hope this bio finds you well.
-**
+**I hope this bio finds you well.**
 
 I am a Civil Engineer pursuing his passion of Software Development. I have 3 years of engineering consultancy experience. My most significant project involvement
 was on Watercare’s $3.4bn Central Interceptor project, where I was the Design Engineer, Client Representative and QA Engineer. 
