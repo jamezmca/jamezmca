@@ -11,5 +11,9 @@ https://roadmap.smoljames.com
 🔥 If you really want to accelerate your learning and become a Webdev master today, then check out my Pro courses:
 https://smoljames.com
 
-Together we shall become great developers ⚡️ 
+💡 Get More Content - Subscribe and click le notification bell to stay tuned for all the fun & exciting tutorials to come!
+https://tinyurl.com/mrxrjmu6
+
+Together we shall become great developers ⚡️
+
 
