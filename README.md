@@ -9,6 +9,6 @@
 
 🔥 YouTube -> https://tinyurl.com/mrxrjmu6
 
-Or check out the github [roadmap](https://www.github.com/jamezmca/learn-to-code){:target="_blank"} 
+Or check out the github [roadmap](https://www.github.com/jamezmca/learn-to-code)
 
 
