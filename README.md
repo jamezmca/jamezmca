@@ -11,6 +11,6 @@
 
 Or check out the github [learn to code roadmap](https://www.github.com/jamezmca/learn-to-code)
 
-#### Connect with me on [Twitter](https://twitter.com/_Smoljames) · [LinkedIn](https://www.linkedin.com/in/jamezmcarthur/)
+*Connect with me on [Twitter](https://twitter.com/_Smoljames) · [LinkedIn](https://www.linkedin.com/in/jamezmcarthur/)*
 
 
