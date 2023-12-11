@@ -13,7 +13,7 @@ Or check out the github [learn to code roadmap](https://www.github.com/jamezmca/
 
 -- *Connect with me on [Twitter](https://twitter.com/_Smoljames) · [LinkedIn](https://www.linkedin.com/in/jamezmcarthur/)*
 
-#### Favorite tech
+### Favorite tech
 
 Currently I enjoy working with **SvelteKit/Next.js, TailwindCSS, Node.js, PostgreSQL & Firebase**
 
