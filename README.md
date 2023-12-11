@@ -13,8 +13,8 @@ Or check out the github [learn to code roadmap](https://www.github.com/jamezmca/
 
 #### Connect with me on 
 
-Twitter -> https://twitter.com/_Smoljames
+*[Twitter](https://twitter.com/_Smoljames)
 
-LinkedIn -> https://www.linkedin.com/in/jamezmcarthur/
+*[LinkedIn](https://www.linkedin.com/in/jamezmcarthur/)
 
 
