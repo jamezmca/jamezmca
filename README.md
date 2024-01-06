@@ -1,5 +1,5 @@
 # Hi I'm James
-### Self-taught Software Dev
+### Self-taught Software Developer
 
 **Learn to code** with me as we devour crash courses and build all sorts of interesting, innovative and unique projects together with the best frameworks, languages and technologies available on the market today; the perfect preparation for landing a developer job!
 
