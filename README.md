@@ -5,7 +5,7 @@
 
 🔥 **YouTube** -> https://tinyurl.com/mrxrjmu6
 
-🐝 **Learn to code & land a job** -> https://www.github.com/jamezmca/learn-to-code
+🐝 **Learn to code & land a job** -> https://www.smoljames.com/roadmap
 
 🌿 **Discord** -> https://discord.gg/BYr6gujs4k
 
