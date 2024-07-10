@@ -1,4 +1,4 @@
-![Programming logos](https://raw.githubusercontent.com/jamezmca/learn-to-code/main/assets/logos.png)
+![banner](https://github.com/jamezmca/jamezmca/blob/main/banner%20small.jpg?raw=true)
 
 Create your own GitHub resume with this [markdown template](https://github.com/jamezmca/github-resume) 🔥
 ___
