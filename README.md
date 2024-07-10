@@ -7,7 +7,7 @@ ___
 
 Auckland, New Zealand · [Smoljames.com](https://www.smoljames.com) · [in/jamezmcarthur](https://www.linkedin.com/in/jamezmcarthur/)
 
-Innovative self-taught software developer with a passion for problem solving and design. Specializes in full-stack development, solutionarchitecture, project vision, JavaScript, Python, and other web technologies. Recognized for leadership abilities and successful projectdeliveries.
+Innovative self-taught software developer with a passion for problem solving and design. Specializes in full-stack development, solutionarchitecture, project vision, JavaScript, Python, and other web technologies. I help people learn to code [here](https://www.youtube.com/smoljames).
 
 Currently I enjoy working with **SvelteKit/Next.js, TailwindCSS, Node.js, PostgreSQL & Firebase**.
 
