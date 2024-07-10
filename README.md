@@ -1,4 +1,4 @@
-![banner](https://github.com/jamezmca/jamezmca/blob/main/banner%20small.jpg?raw=true)
+[![banner](https://github.com/jamezmca/jamezmca/blob/main/banner%20small.jpg?raw=true)](https://www.smoljames.com)
 
 Create your own GitHub resume with this [markdown template](https://github.com/jamezmca/github-resume) 🔥
 ___
