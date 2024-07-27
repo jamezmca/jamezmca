@@ -5,9 +5,9 @@
 
 **Learn to code** with me as we devour crash courses and build all sorts of interesting, innovative and unique projects together with the best frameworks, languages and technologies available on the market today; the perfect preparation for landing a developer job!
 
-🔥 **YouTube** -> https://tinyurl.com/mrxrjmu6
+🔥 **YouTube** [youtube.com/smoljames](https://www.youtube.com/smoljames)
 
-🐝 **Learn to code & land a job** -> https://www.smoljames.com/roadmap
+🐝 **Learn to code & land a job** [smoljames.com/roadmap](http://www.smoljames.com/roadmap)
 
 🌿 **Get hired faster ⭐️** Build a free resume with [hyr.sh](https://www.hyr.sh) today! 
 
