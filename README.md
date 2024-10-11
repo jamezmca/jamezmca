@@ -11,7 +11,7 @@
 
 🌿 **Get hired faster ⭐️** Build a free resume with [hyr.sh](https://www.hyr.sh) today! 
 
-✅ **Effortless style your projects** [FantaCSS](https://www.fantacss.smoljames.com)
+✅ **Effortlessly style your projects** [FantaCSS](https://www.fantacss.smoljames.com)
 
 -- *Connect with me on [Twitter](https://twitter.com/_Smoljames) · [LinkedIn](https://www.linkedin.com/in/jamezmcarthur/)*
 
