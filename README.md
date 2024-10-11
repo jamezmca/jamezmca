@@ -17,6 +17,13 @@
 
 Currently I enjoy working with **SvelteKit/Next.js, TailwindCSS, Node.js, PostgreSQL & Firebase**
 
+### Free Courses
+
+* [**HTML & CSS** (5h41m)](https://youtu.be/Eb3lOiukwAQ)
+* [**JavaScript for Beginners** (2h)](https://youtu.be/-ihpNX0EODc)
+* [**React.JS** (8h)](https://youtu.be/iKpkVKubvKk)
+* [**Next.JS** (4h)](https://youtu.be/lkjrUW8fI40)
+
 ![Programming logos](https://raw.githubusercontent.com/jamezmca/learn-to-code/main/assets/logos.png)
 
 
